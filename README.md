@@ -1,4 +1,4 @@
-# Online Pharmacy Shop System
+# Online Pharmacy Shop Management System
 
 This project is a part of the Software Engineering course (ESC-591) at TMSL College. It is a web-based application for an online pharmacy shop that allows users to browse medicines, add them to the cart, and proceed with payment. The project utilizes React, TypeScript, Vite, and various other modern web technologies.
 
